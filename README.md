@@ -10,7 +10,7 @@ Here,we provide 972,462 images with 416 brands labels.
 
 The structure of the CBP database is shown below.
 
-![](https://github.com/nutccsie2507/CBP-A-Large-Scale-Clothing-Dataset-with-Brand-and-Price-Information/raw/master/images/dataset structure.png)
+![](https://github.com/nutccsie2507/CBP-A-Large-Scale-Clothing-Dataset-with-Brand-and-Price-Information/raw/master/images/dataset_structure.png)
 
 * [Dataset link](http://google.com "test")  
 
