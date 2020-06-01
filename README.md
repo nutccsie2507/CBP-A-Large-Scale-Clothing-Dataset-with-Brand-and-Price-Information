@@ -12,7 +12,7 @@ The structure of the CBP database is shown below.
 
 ![](https://github.com/nutccsie2507/CBP-A-Large-Scale-Clothing-Dataset-with-Brand-and-Price-Information/raw/master/images/dataset_structure.png)
 
-* [Dataset link](https://drive.google.com/open?id=1Wdb4fRVS03SWKsBtbWrVWOWyCJ5kMQr3 "csie2507")  
+* [Dataset link](https://drive.google.com/open?id=1Wdb4fRVS03SWKsBtbWrVWOWyCJ5kMQr3 "password:csie2507")  
 
 # Contact
 Please feel free to contact Kuan-Hsien Liu (khliu1212@gmail.com)
